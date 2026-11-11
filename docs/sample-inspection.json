@@ -1,0 +1,10 @@
+{
+  "mine": "Northfield Demo Mine",
+  "location": "Underground — Section B",
+  "inspector": "Demo Inspector",
+  "observed_at": "2026-11-04T08:00:00+00:00",
+  "notes": "DEMO ONLY: Methane measured 1.4 percent, airflow measured 4.2 m3/s and dust measured 1.2 mg/m3. Synthetic classroom evidence, not real mine observations.",
+  "methane_pct": 1.4,
+  "airflow_m3_s": 4.2,
+  "dust_mg_m3": 1.2
+}

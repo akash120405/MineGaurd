@@ -1,0 +1,9 @@
+.env
+.local-access.txt
+data
+.venv
+__pycache__
+.pytest_cache
+tests
+docs
+*.zip
